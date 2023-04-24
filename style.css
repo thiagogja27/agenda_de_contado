@@ -1,0 +1,65 @@
+
+body{
+    background-color:black;
+}
+
+img{
+    padding-top: 20px;
+    width: 50px;
+}
+
+
+.container {
+    background-color: rgb(70, 87, 87);
+    text-align: center;
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 400px;
+    border-radius: 10px;
+
+
+}
+h1{
+    color:white
+}
+form{ margin-top: 25px;
+     justify-content:space-between;
+  
+}
+
+table th {
+    border-bottom: 2px solid #000;
+    padding: 16px;
+    padding-left:80px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(54, 218, 57);
+}
+thead{
+  margin-right:-300px;
+}
+
+td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(56, 169, 57);
+    color: white;
+    margin-left: 80px;
+  border-radius: 10px;
+  
+}
+
+input{
+    border-radius: 10px;
+    border-color: aqua;
+}
+
+
+
+button{
+    border-radius: 10px;
+    border-color: aliceblue;
+   height: 100%;
+   background-color:rgb(0, 183, 255);
+   color:white
+  
+}
